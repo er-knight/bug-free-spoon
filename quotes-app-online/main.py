@@ -56,3 +56,11 @@ if __name__ == "__main__":
     quote, author = get_quote()
 
     print(prettified(quote, author))
+
+""" sample --------------------------------------------
+ ╭────────────────────────────────────────────────────╮
+ │ The one who always loses, is the only person who   │
+ │ gets the reward.                                   │
+ │                                  ~ Claire Charmont │
+ ╰────────────────────────────────────────────────────╯
+"""
