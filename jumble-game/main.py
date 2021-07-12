@@ -21,9 +21,6 @@ def jumbled(word):
     return "".join(word)
 
 if __name__ == "__main__":
-    original_word = get_random_word()
-    jumbled_word  = jumbled(original_word)
-
     clear_screen()
 
     print("Welcome to The Jumble Game!\n")
@@ -33,6 +30,9 @@ if __name__ == "__main__":
     input("Press Enter [↵] to play > ")
 
     clear_screen()
+
+    original_word = get_random_word()
+    jumbled_word  = jumbled(original_word)
 
     print(f"Jumbled word : {jumbled_word}")
     guess = input("Your guess   : ").strip()

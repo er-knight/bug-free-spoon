@@ -26,17 +26,17 @@ if __name__ == '__main__':
 
     clear_screen()
 
-    lives_remaining = 5
-    word_to_guess   = get_random_word()
-    length          = len(word_to_guess)
-    guessed_word    = "_" * length
-    used_letters    = set()
+    rounds_remaining = 5
+    word_to_guess    = get_random_word()
+    length           = len(word_to_guess)
+    guessed_word     = "_" * length
+    used_letters     = set()
 
     print(f"{guessed_word}\n")
-    print(f"Lives remaining : {lives_remaining}")
+    print(f"Lives remaining : {rounds_remaining}")
     print("Used letters    :", *used_letters)
 
-    while lives_remaining:
+    while rounds_remaining:
         guessed_letter = input("> ").strip()
         used_letters.add(guessed_letter)
 
@@ -52,12 +52,12 @@ if __name__ == '__main__':
 
                 guessed_word = temp
         else:
-            lives_remaining -= 1
+            rounds_remaining -= 1
 
         clear_screen()
 
         print(f"{guessed_word}\n")
-        print(f"Lives remaining : {lives_remaining}")
+        print(f"Lives remaining : {rounds_remaining}")
         print("Used letters    :", *used_letters)
 
         if guessed_word == word_to_guess:
