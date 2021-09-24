@@ -10,15 +10,15 @@ def generate_password(length=8, uppercase=True, lowercase=True, numeric=True, sp
     
 	ALL_CHARS = list(
 	    "".join([
-            UPPER_CHARS   if uppercase     else "",
-            LOWER_CHARS   if lowercase     else "",
-            NUMERIC_CHARS if numeric       else "",
-            SPECIAL_CHARS if special_chars else ""
+	    UPPER_CHARS   if uppercase     else "",
+	    LOWER_CHARS   if lowercase     else "",
+	    NUMERIC_CHARS if numeric       else "",
+	    SPECIAL_CHARS if special_chars else ""
 	    ])
 	)
-	
+
 	random.shuffle(ALL_CHARS)
-	
+
 	return "".join(random.choices(ALL_CHARS, k=length))
 	
 if __name__ == "__main__":
