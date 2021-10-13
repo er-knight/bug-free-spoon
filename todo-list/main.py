@@ -39,11 +39,11 @@ if __name__ == "__main__":
 
     todo_list.show_todos()
 
-    # [1] write todo app
-    # [2] take some sleep
-    # [3] call rishab shukla
+# [1] write todo app
+# [2] take some sleep
+# [3] call rishab shukla
 
-    # marked 2nd todo as done
+# marked 2nd todo as done
 
-    # [1] write todo app
-    # [3] call rishab shukla
+# [1] write todo app
+# [3] call rishab shukla

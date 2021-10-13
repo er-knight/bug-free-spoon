@@ -29,37 +29,36 @@ def main():
             while i < 6.28:
                 i += 0.02
 
-                sinA = sin(a)
-                cosA = cos(a)
-                cosB = cos(b)
-                sinB = sin(b)
+                sin_a = sin(a)
+                sin_b = sin(b)
+                cos_a = cos(a)
+                cos_b = cos(b)
 
-                sini = sin(i)
-                cosi = cos(i)
-                cosj = cos(j)
-                sinj = sin(j)
+                sin_i = sin(i)
+                sin_j = sin(j)
+                cos_i = cos(i)
+                cos_j = cos(j)
 
-                cosj2 = cosj + 2
-                mess = 1 / (sini * cosj2 * sinA + sinj * cosA + 5)
-                t = sini * cosj2 * cosA - sinj * sinA
+                mess = 1 / (sin_i * (cos_j + 2) * sin_a + sin_j * cos_a + 5)
+                t = sin_i * (cos_j + 2) * cos_a - sin_j * sin_a
 
                 # 40 is the left screen shift
-                x = int(40 + 30 * mess * (cosi * cosj2 * cosB - t * sinB))
+                x = int(40 + 30 * mess * (cos_i * (cos_j + 2) * cos_b - t * sin_b))
                 # 12 is the down screen shift
-                y = int(11 + 15 * mess * (cosi * cosj2 * sinB + t * cosB))
+                y = int(11 + 15 * mess * (cos_i * (cos_j + 2) * sin_b + t * cos_b))
                 # all are casted to int, ie floored
                 o = int(x + width * y)
 				# multiplying by 8 to bring in range 0-11 as 8*(sqrt(2))=11
 				# because we have 11 luminance characters
-                N = int(8 * ((sinj * sinA - sini * cosj * cosA) * cosB - sini * cosj * sinA - sinj * cosA - cosi * cosj * sinB))
+                n = int(8 * ((sin_j * sin_a - sin_i * cos_j * cos_a) * cos_b - sin_i * cos_j * sin_a - sin_j * cos_a - cos_i * cos_j * sin_b))
 				# if x,y inside screen and previous z-buffer is < mess 
 				# i.e. when z[o] is 0 or the prev point is behind the new point
 				# so we change it to the point nearer to the eye/ above prev point 
                 if 0 < y < height and 0 < x < width and z[o] < mess:
                     z[o] = mess
-                    screen[o] = ".,-~:;=!*#$@"[N if N > 0 else 0]
+                    screen[o] = ".,-~:;=!*#$@"[n if n > 0 else 0]
 
-        # prints
+        # clear screen and print donut
         clear_screen()
         for index, char in enumerate(screen):
             if index % width == 0:
