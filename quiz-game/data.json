@@ -1,0 +1,466 @@
+[
+    {
+        "Q" : "What is the name of Fred and George’s joke shop?",
+        "A" : "Weasley Joke Emporium",
+        "B" : "Weasleys’ Wizard Wheezes",
+        "C" : "Fred & George’s Wonder Emporium",
+        "D" : "Zonko’s Joke Shop",
+        "R" : "B"
+    },
+    {
+        "Q" : "When did Harry Potter born?",
+        "A" : "31 July 1980",
+        "B" : "23 July 1980",
+        "C" : "13 July 1979",
+        "D" : "31 July 1979",
+        "R" : "A"
+    },
+    {
+        "Q" : "When did Hermione Granger born?",
+        "A" : "11 September 1979",
+        "B" : "19 September 1979",
+        "C" : "15 September 1980",
+        "D" : "15 September 1979",
+        "R" : "B"
+    },
+    {
+        "Q" : "Which of these ‘products’ was NOT a Skiving Snackbox created by the Weasley twins?",
+        "A" : "Fever Fudge",
+        "B" : "Sneezy Sweets",
+        "C" : "Puking Pastilles",
+        "D" : "Nosebleed Nougat",
+        "R" : "B"
+    },
+    {
+        "Q" : "What broomstick did the twins use playing Quidditch for Gryffindor?",
+        "A" : "Cleansweep Sevens",
+        "B" : "Comet 260s",
+        "C" : "Nimbus 2000s",
+        "D" : "Cleansweep Fives",
+        "R" : "D"
+    },
+    {
+        "Q" : "In which book did Fred and George give Harry the Marauder’s Map?",
+        "A" : "Goblet of Fire",
+        "B" : "Prisoner of Azkaban",
+        "C" : "Philosopher's Stone",
+        "D" : "Chamber of Secrets",
+        "R" : "B"
+    },
+    {
+        "Q" : "Who unfortunately lost an ear during the flight of the Order of the Phoenix to transport Harry?",
+        "A" : "Arthur Weasley",
+        "B" : "Fred Weasley",
+        "C" : "Bill Weasley",
+        "D" : "George Weasley",
+        "R" : "D"
+    },
+    {
+        "Q" : "How many O.W.L.s does the Weasley twins secure each?",
+        "A" : "Two",
+        "B" : "Four",
+        "C" : "Six",
+        "D" : "Three",
+        "R" : "D"
+    },
+    {
+        "Q" : "Who first shows Harry the Golden Snitch?",
+        "A" : "Fred Weasley",
+        "B" : "Professor McGonagall",
+        "C" : "Ron Weasley",
+        "D" : "Oliver Wood",
+        "R" : "D"
+    },
+    {
+        "Q" : "How many points does a Seeker gain for their team if they catch the Snitch?",
+        "A" : "Five Hundred",
+        "B" : "Fifty",
+        "C" : "One Hundred and Fifty",
+        "D" : "One Hundred",
+        "R" : "C"
+    },
+    {
+        "Q" : "Aside from the points, what else happens when a Seeker catches the Snitch?",
+        "A" : "The Bludgers explode",
+        "B" : "The Quidditch game ends",
+        "C" : "The Quidditch game restarts",
+        "D" : "The Seeker's team wins",
+        "R" : "B"
+    },
+    {
+        "Q" : "How does Harry catch the Snitch in his first ever Quidditch match?",
+        "A" : "In his left hand",
+        "B" : "In his mouth",
+        "C" : "In his right hand",
+        "D" : "Between his knees",
+        "R" : "B"
+    },
+    {
+        "Q" : "In his third year, when Harry falls from his broomstick during a match, who ends up catching the Snitch?",
+        "A" : "Cedric Diggory",
+        "B" : "Cho Chang",
+        "C" : "Draco Malfoy",
+        "D" : "Ginny Weasley",
+        "R" : "A"
+    },
+    {
+        "Q" : "Finish the bet that the Weasley twins make at the Quidditch World Cup: Ireland win – but… ?",
+        "A" : "only by twenty points",
+        "B" : "only by ten points",
+        "C" : "Volchanov gets the Snitch",
+        "D" : "Viktor Krum gets the Snitch",
+        "R" : "D"
+    },
+    {
+        "Q" : "Who plays Seeker and catches the Snitch in Harry’s place when he’s banned from Quidditch?",
+        "A" : "Ginny Weasley",
+        "B" : "Angelina Johnson",
+        "C" : "Dean Thomas",
+        "D" : "Seamus Finnigan",
+        "R" : "A"
+    },
+    {
+        "Q" : "Harry sees James Potter with a Golden Snitch in a memory. How does he say he got it?",
+        "A" : "Caught it in his last match",
+        "B" : "Borrowed it",
+        "C" : "Padfoot gave it to him",
+        "D" : "Nicked it",
+        "R" : "D"
+    },
+    {
+        "Q" : "Where was the first Golden Snitch forged?",
+        "A" : "Godric's Hollow",
+        "B" : "Diagon Alley",
+        "C" : "Hogwarts",
+        "D" : "Hogsmeade",
+        "R" : "A"
+    },
+    {
+        "Q" : "Finish the phrase that is engraved on the Snitch given to Harry by Dumbledore: I open at…",
+        "A" : "the beginning",
+        "B" : "death's door",
+        "C" : "the end",
+        "D" : "the close",
+        "R" : "D"
+    },
+    {
+        "Q" : "How does Harry manage to breathe underwater during the second task of the Triwizard Tournament?",
+        "A" : "He transfigures into a shark",
+        "B" : "He kisses a mermaid",
+        "C" : "He eats gillyweed",
+        "D" : "He performs a bubble-head charm",
+        "R" : "D"
+    },
+    {
+        "Q" : "Which of these was not a Defence Against the Dark Arts text set by Gilderoy Lockhart?",
+        "A" : "Voyages with Vampires",
+        "B" : "Wanderings with Werewolves",
+        "C" : "Break with a Banshee",
+        "D" : "Gallivanting with Ghouls",
+        "R" : "D"
+    },
+    {
+        "Q" : "What was the name of the Pygmy Puff Ginny bought from Weasleys’ Wizard Wheezes?",
+        "A" : "Barry",
+        "B" : "Craig",
+        "C" : "Hugo",
+        "D" : "Arnold",
+        "R" : "D"
+    },
+    {
+        "Q" : "What was the codename that Fred was mistakenly called by Lee Jordan on Potterwatch?",
+        "A" : "River",
+        "B" : "Rabbit",
+        "C" : "Rapier",
+        "D" : "Rodent",
+        "R" : "D"
+    },
+    {
+        "Q" : "How many exceptions are there to Gamp’s Elemental Law?",
+        "A" : "Five",
+        "B" : "Three",
+        "C" : "Four",
+        "D" : "Seven",
+        "R" : "A"
+    },
+    {
+        "Q" : "What colour eyes does Winky the house-elf have?",
+        "A" : "Hazel",
+        "B" : "Emerald",
+        "C" : "Light Brown",
+        "D" : "Dark Brown",
+        "R" : "D"
+    },
+    {
+        "Q" : "What is the name of the Bulgarian Minister for Magic?",
+        "A" : "Nedyalko",
+        "B" : "Desislav",
+        "C" : "Tsvetan",
+        "D" : "Oblansk",
+        "R" : "D"
+    },
+    {
+        "Q" : "What type of hat was Elphias Doge wearing at Bill and Fleur’s wedding?",
+        "A" : "A suspiciously stained wizard's hat",
+        "B" : "A bettered bowler hat",
+        "C" : "A moth-eaten fez",
+        "D" : "A tatty top hat",
+        "R" : "C"
+    },
+    {
+        "Q" : "Who gave Ambrosius Flume, the manager of Honeydukes Sweetshop, his first job?",
+        "A" : "Ciceron Harkiss",
+        "B" : "Horace Slughorn",
+        "C" : "Florean Fortescue",
+        "D" : "Luc Millefeuille",
+        "R" : "A"
+    },
+    {
+        "Q" : "Who is the author of Unfogging the Future?",
+        "A" : "Selina Sapworthy",
+        "B" : "Cassandra Vablatsky",
+        "C" : "Greta Catchlove",
+        "D" : "Galatea Merrythought",
+        "R" : "B"
+    },
+    {
+        "Q" : "Who is the editor of the Daily Prophet?",
+        "A" : "Broderick Bode",
+        "B" : "Xenophilius Lovegood",
+        "C" : "Urquhart Rackharrow",
+        "D" : "Barnabus Cuffe",
+        "R" : "D"
+    },
+    {
+        "Q" : "During Harry’s first Hogwarts Christmas, who teaches him to play wizard chess?",
+        "A" : "Hermione",
+        "B" : "Neville",
+        "C" : "Ron",
+        "D" : "Seamus",
+        "R" : "C"
+    },
+    {
+        "Q" : "In Prisoner of Azkaban, Sir Cadogan was spotted having a Christmas party with his pony, a few monks and...",
+        "A" : "Previous Headmasters of Hogwarts",
+        "B" : "A mermaid",
+        "C" : "Violet",
+        "D" : "The Fat Lady",
+        "R" : "A"
+    },
+    {
+        "Q" : "What did Ron get Harry for Christmas in their second year?",
+        "A" : "Omnioculars",
+        "B" : "A Broomstick Servicing Kit",
+        "C" : "A Flying with the Cannons book",
+        "D" : "A pack of Chocolate Frogs",
+        "R" : "C"
+    },
+    {
+        "Q" : "In Half-Blood Prince, what was The Fat Lady’s festive common room password?",
+        "A" : "Fairy lights",
+        "B" : "Baubles",
+        "C" : "Glitter",
+        "D" : "Crackers",
+        "R" : "B"
+    },
+    {
+        "Q" : "Who did Professor Slughorn introduce Harry to at his Christmas party?",
+        "A" : "The Weird Sisters",
+        "B" : "Rufus Scrimgeour",
+        "C" : "Eldred Worple",
+        "D" : "Dedalus Diggle",
+        "R" : "C"
+    },
+    {
+        "Q" : "In Order of the Phoenix, Harry has a strange dream where he’s decorating the DA room with baubles shaped like...",
+        "A" : "Dobby's head",
+        "B" : "Quaffles",
+        "C" : "Pygmy Puffs",
+        "D" : "Remembralls",
+        "R" : "A"
+    },
+    {
+        "Q" : "During the Yule Ball, who is Professor McGonagall seen dancing with?",
+        "A" : "Professor Dumbledore",
+        "B" : "Igor Karkaroff",
+        "C" : "Mad-Eye Moody",
+        "D" : "Ludo Bagman",
+        "R" : "D"
+    },
+    {
+        "Q" : "In Goblet of Fire, the suits of armour were bewitched to sing which Christmas carol?",
+        "A" : "Joy to the World",
+        "B" : "In the Break Midwinter",
+        "C" : "O Holy Night",
+        "D" : "Oh Come All Ye Faithful",
+        "R" : "D"
+    },
+    {
+        "Q" : "During his introduction to wizard crackers and their fantastic prizes, which of the following items does Harry end up with?",
+        "A" : "A Remembrall",
+        "B" : "A pack of Dr Filibuster's fireworks",
+        "C" : "A grow-your-own-warts kit",
+        "D" : "Spellotape",
+        "R" : "C"
+    },
+    {
+        "Q" : "Who does Hermione end up taking as a date to Slughorn’s Christmas party?",
+        "A" : "Neville Longbottom",
+        "B" : "Seamus Finnigan",
+        "C" : "Dean Thomas",
+        "D" : "Cormac McLaggen",
+        "R" : "D"
+    },
+    {
+        "Q" : "To enter the Ravenclaw common room, you must partake in a...",
+        "A" : "General knowledge quiz",
+        "B" : "Obstacle course",
+        "C" : "Battle of the wits with the Grey Lady",
+        "D" : "Riddle",
+        "R" : "D"
+    },
+    {
+        "Q" : "To enter the Hufflepuff common room, you must tap a barrel to the rhythm of a Hufflepuff-related word. Which is it?",
+        "A" : "Badger",
+        "B" : "Helga Hufflepuff",
+        "C" : "The Fat Friar",
+        "D" : "Pomona Sprout",
+        "R" : "B"
+    },
+    {
+        "Q" : "What shape is the Gryffindor common room?",
+        "A" : "Star-shaped",
+        "B" : "Triangular",
+        "C" : "Circular",
+        "D" : "Square",
+        "R" : "C"
+    },
+    {
+        "Q" : "In the books, which couple have their first kiss in the Gryffindor common room?",
+        "A" : "Dean & Ginny",
+        "B" : "Harry & Cho",
+        "C" : "Ron & Hermione",
+        "D" : "Harry & Ginny",
+        "R" : "D"
+    },
+    {
+        "Q" : "Who puts an Enlargement Charm on a copy of The Quibbler, where Harry is on the cover, and hangs it in the Gryffindor common room?",
+        "A" : "Lee Jordan",
+        "B" : "Dean Thomas",
+        "C" : "Fred & George",
+        "D" : "Hermione Granger",
+        "R" : "C"
+    },
+    {
+        "Q" : "In which book does Harry first visit the Ravenclaw common room?",
+        "A" : "Deathly Hallows",
+        "B" : "Goblet of Fire",
+        "C" : "Order of the Phoenix",
+        "D" : "Half-Blood Prince",
+        "R" : "A"
+    },
+    {
+        "Q" : "As Harry learns, the Ravenclaw common room has a spectacular view of...",
+        "A" : "The Mountains",
+        "B" : "Hogsmeade",
+        "C" : "The Forbidden Forest",
+        "D" : "The Quidditch pitch",
+        "R" : "A"
+    },
+    {
+        "Q" : "The Slytherin common room is located in...",
+        "A" : "Nobody knows",
+        "B" : "The dungeons",
+        "C" : "The North Tower",
+        "D" : "The third floor",
+        "R" : "B"
+    },
+    {
+        "Q" : "The Hufflepuff common room resembles a...",
+        "A" : "Badger's Sett",
+        "B" : "Beehive",
+        "C" : "Rabbit warren",
+        "D" : "Fox den",
+        "R" : "A"
+    },
+    {
+        "Q" : "Which of these was not a Christmas-themed password to Gryffindor Tower?",
+        "A" : "Tinsel",
+        "B" : "Fairy Lights",
+        "C" : "Bauble",
+        "D" : "Balderdash",
+        "R" : "A"
+    },
+    {
+        "Q" : "Which of these questions does Professor McGonagall answer to gain access to the Ravenclaw common room?",
+        "A" : "How do Extension Charms work?",
+        "B" : "Who invented the Horcrux?",
+        "C" : "Where do vanished objects go?",
+        "D" : "Which came first, the phoenix or the flame?",
+        "R" : "C"
+    },
+    {
+        "Q" : "The Slytherin common room is beneath which feature of the Hogwarts grounds?",
+        "A" : "The Forbidden Forest",
+        "B" : "The Whomping Willow",
+        "C" : "The Great Lake",
+        "D" : "The Greenhouses",
+        "R" : "C"
+    },
+    {
+        "Q" : "What do you get drenched in if you tap the wrong barrel to access the Hufflepuff common room?",
+        "A" : "Oil",
+        "B" : "Wine",
+        "C" : "Vinegar",
+        "D" : "Butterbeer",
+        "R" : "C"
+    },
+    {
+        "Q" : "Which is the only common room Harry doesn’t visit?",
+        "A" : "Slytherin",
+        "B" : "Hufflepuff",
+        "C" : "Ravenclaw",
+        "D" : "Gryffindor",
+        "R" : "B"
+    },
+    {
+        "Q" : "After she is attacked, who replaces the Fat Lady as portrait guardian to Gryffindor Tower?",
+        "A" : "Nearly Headless Nick",
+        "B" : "Sir Cadogan",
+        "C" : "Phineas Nigellus Black",
+        "D" : "Dilys Derwent",
+        "R" : "B"
+    },
+    {
+        "Q" : "Which Death Eater catches Harry and Luna in the Ravenclaw common room?",
+        "A" : "Amycus Carrow",
+        "B" : "Antonin Dolohov",
+        "C" : "Alecto Carrow",
+        "D" : "Bellatrix Lestrange",
+        "R" : "C"
+    },
+    {
+        "Q" : "What is the password to the Slytherin common room when Ron and Harry enter it?",
+        "A" : "Serpent",
+        "B" : "Pure-blood",
+        "C" : "Parselmouth",
+        "D" : "Salazar",
+        "R" : "B"
+    },
+    {
+        "Q" : "What is the Hufflepuff common room located near?",
+        "A" : "The greenhouses",
+        "B" : "The Astronomy Tower",
+        "C" : "The kitchen",
+        "D" : "The Forbidden Forest",
+        "R" : "C"
+    },
+    {
+        "Q" : "What is the name of the Fat Lady’s friend who she regularly visits?",
+        "A" : "Rose",
+        "B" : "Lavender",
+        "C" : "Violet",
+        "D" : "Daisy",
+        "R" : "C"
+    }
+]
