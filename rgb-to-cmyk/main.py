@@ -31,3 +31,5 @@ if __name__ == "__main__":
     # magenta = 1.0
     # yellow  = 0.0
     # black   = 0.4901960784313726
+
+# https://docs.python.org/3/library/colorsys.html
