@@ -40,3 +40,6 @@ if __name__ == "__main__":
 
 # download files with curl
 # curl -o passwords.txt https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt
+
+# How Hackers Can Still Break Your Passwords (YouTube)
+# https://www.youtube.com/watch?v=cjdiIKFYeXQ
